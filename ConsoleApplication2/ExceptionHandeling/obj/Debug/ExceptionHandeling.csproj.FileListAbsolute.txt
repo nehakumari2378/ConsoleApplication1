@@ -1,0 +1,6 @@
+E:\ConsoleApplication2\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe.config
+E:\ConsoleApplication2\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe
+E:\ConsoleApplication2\ExceptionHandeling\bin\Debug\ExceptionHandeling.pdb
+E:\ConsoleApplication2\ExceptionHandeling\obj\Debug\ExceptionHandeling.exe
+E:\ConsoleApplication2\ExceptionHandeling\obj\Debug\ExceptionHandeling.pdb
+E:\ConsoleApplication2\ExceptionHandeling\obj\Debug\ExceptionHandeling.csprojResolveAssemblyReference.cache
